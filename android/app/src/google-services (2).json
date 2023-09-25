@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "854640311273",
+    "project_id": "karthi-acde8",
+    "storage_bucket": "karthi-acde8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854640311273:android:3c064535b25e826652a978",
+        "android_client_info": {
+          "package_name": "com.clicknupload"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwmxuBNJsLalSF-R7u2X9G2k22ir6iliY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
